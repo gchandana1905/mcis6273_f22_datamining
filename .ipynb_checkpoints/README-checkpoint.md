@@ -1,8 +1,8 @@
 # MCIS6273 Fall 2022
 
 
-## Homeworks
+Zotero username: Chandana1905
 
-| # | Link | Description | Due Date |
-|:-:|:----:|:-----------:|:--------:|
-| 0 | HW0 [Jupyter NB](./homework/hw0/hw0.ipynb)<br/> HW0 [pdf](./homework/hw0/hw0.pdf) | Data Science warmup | Mon. Aug. 29, 2022 |
+[link to my zotero](https://www.zotero.org/chandana1905)
+
+[GitHub repo link](https://github.com/gchandana1905/mcis6273_f22_datamining) 
